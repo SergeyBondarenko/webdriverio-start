@@ -12,12 +12,13 @@ exports.config = {
     specs: [
         './test/specs/**/*.js'
     ],
-    // Suites
-    suites: {
-      test: [
-        './test/specs/test/**/*.js'
-      ]
-    },
+    //// Suites
+    //suites: {
+    //  mytest: [
+    //    './test/specs/test/test.js',
+    //    //'./test/specs/test/login/login.spec.js',
+    //  ]
+    //},
     // Patterns to exclude.
     exclude: [
         // 'path/to/excluded/files'
