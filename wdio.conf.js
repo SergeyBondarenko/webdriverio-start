@@ -16,7 +16,7 @@ exports.config = {
     //suites: {
     //  mytest: [
     //    './test/specs/test/test.js',
-    //    //'./test/specs/test/login/login.spec.js',
+    //    './test/specs/test/login.spec.js'
     //  ]
     //},
     // Patterns to exclude.
